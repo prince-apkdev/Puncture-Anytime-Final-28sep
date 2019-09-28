@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "528904382322",
+    "firebase_url": "https://puncture-anytime-c719a.firebaseio.com",
+    "project_id": "puncture-anytime-c719a",
+    "storage_bucket": "puncture-anytime-c719a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528904382322:android:c9343387c10e96b1599feb",
+        "android_client_info": {
+          "package_name": "com.prince.punctureanytime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528904382322-3jck7bqoc8fqjbgvdscksempdmnra2rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prince.punctureanytime",
+            "certificate_hash": "6d7994c5ef257afdd342b9781fcda1a4659c2989"
+          }
+        },
+        {
+          "client_id": "528904382322-s7vi3fsfqvgf64p2granmnj7beumrv40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhwNtcS7PEF4oihrAZATb5QjJjq_CRQW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528904382322-s7vi3fsfqvgf64p2granmnj7beumrv40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

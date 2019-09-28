@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Puncture Anytime</string>
+    <string name="welcome">Welcome</string>
+    <string name="number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="conf_pass">Confirm Password</string>
+    <string name="any_problem">Can\'t Sign In? Contact Us</string>
+    <string name="cont">Continue</string>
+    <string name="otp_title">Waiting for verification code</string>
+    <string name="verify">Verify</string>
+    <string name="username">Enter Your Name</string>
+    <string name="email">Email Id</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mobile_battery">Mobile Battery Service</string>
+    <string name="tyre_service">Tyre Service</string>
+    <string name="emergency_fuel">Emergency Fuel Delivery</string>
+    <string name="locksmith">Locksmith Service</string>
+    <string name="towing_service">Towing Service</string>
+    <string name="available_services">Available Services</string>
+</resources>
